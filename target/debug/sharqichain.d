@@ -1,1 +1,0 @@
-/Users/kacpersatoshipay/Programmer/sharqichain/target/debug/sharqichain: /Users/kacpersatoshipay/Programmer/sharqichain/src/blockchain/block.rs /Users/kacpersatoshipay/Programmer/sharqichain/src/blockchain.rs /Users/kacpersatoshipay/Programmer/sharqichain/src/main.rs
