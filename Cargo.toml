@@ -1,0 +1,8 @@
+[package]
+edition = "2021"
+name = "sharqichain"
+version = "0.1.0"
+
+[dependencies]
+digest = "0.10.1"
+sha2 = "0.10.2"
